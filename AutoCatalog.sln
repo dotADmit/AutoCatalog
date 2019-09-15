@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCatalog", "AutoCatalog\AutoCatalog.csproj", "{205ED385-1378-4928-BCA7-7BFFA4E478AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{205ED385-1378-4928-BCA7-7BFFA4E478AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205ED385-1378-4928-BCA7-7BFFA4E478AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205ED385-1378-4928-BCA7-7BFFA4E478AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205ED385-1378-4928-BCA7-7BFFA4E478AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB57B180-5DFA-4453-876F-CD588370374B}
+	EndGlobalSection
+EndGlobal
